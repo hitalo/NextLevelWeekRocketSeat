@@ -6,3 +6,7 @@ Projeto desenvolvido durante a NextLevelWeek da RocketSeat
 
 - Base do projeto backend e web
 
+
+#### Segunda Aula
+
+- Implementação do backend
