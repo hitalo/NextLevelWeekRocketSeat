@@ -2,6 +2,8 @@
 
 Projeto desenvolvido durante a NextLevelWeek da RocketSeat
 
+## Ecoleta
+
 #### Primeira Aula
 
 - Base do projeto backend e web
@@ -14,3 +16,7 @@ Projeto desenvolvido durante a NextLevelWeek da RocketSeat
 #### Terceira Aula
 
 - Implementação do cliente web
+
+#### Quarta Aula
+
+- Implementação do cliente mobile
