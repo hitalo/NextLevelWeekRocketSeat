@@ -1,8 +1,10 @@
 # NextLevelWeek
 
-Projeto desenvolvido durante a NextLevelWeek da RocketSeat
+Projeto desenvolvido durante a NextLevelWeek #01 da RocketSeat
 
 ## Ecoleta
+
+Marketplace para cadastro e consulta de pontos de coleta de resíduos.
 
 #### Primeira Aula
 
@@ -20,3 +22,8 @@ Projeto desenvolvido durante a NextLevelWeek da RocketSeat
 #### Quarta Aula
 
 - Implementação do cliente mobile
+
+#### Quinta Aula (Final)
+
+- Upload de imagens
+- Validação dos dados
